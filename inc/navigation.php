@@ -27,7 +27,7 @@
 			</ul>
 		</li>
 		<li>
-			<a href="about-us.html">about</a>
+			<a href="about-me.php">about</a>
 		</li>
 		<li>
 			<a href="index-video.php">video</a>

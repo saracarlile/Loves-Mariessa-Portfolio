@@ -12,9 +12,9 @@
 			<a href="index-horizontal-centered.php">home</a>
 		</li>
 		<li>
-			<a href="portfolio-3-cols.html">studio</a>
+			<a href="gallery-grid.php">studio</a>
 			<ul>
-				<li><a href="portfolio-2-cols.html">2 columns</a></li>
+				<li><a href="gallery-grid.php">Ars Supernova</a></li>
 				<li><a href="portfolio-3-cols.html">3 columns</a></li>
 			</ul>
 		</li>

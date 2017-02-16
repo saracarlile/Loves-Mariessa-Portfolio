@@ -6,7 +6,7 @@
 	<head>    
        <?php 
        $pageTitle = "Gallery - Loves, Mariessa";
-       $headContent = "Gallery. Fashion portfolio. Loves, Mariessa.";
+       $headContent = "Gallery. Fashion portfolio photos. Loves, Mariessa.";
 	   require_once($_SERVER['DOCUMENT_ROOT'].'/inc/header.php'); 
        ?>
 	</head>
@@ -15,7 +15,7 @@
 		<!-- MAIN_WRAPPER -->
 		<div class="main-wrapper animsition">
 			<!-- HEADER -->
-			<header id="header" class="fixed">
+			<header id="header">
             <?php require_once($_SERVER['DOCUMENT_ROOT'].'/inc/navigation.php'); ?>
 			</header>
 			<!-- /HEADER -->
@@ -25,7 +25,16 @@
 				<div class="grid gallery" data-gutter="5" data-columns="3">
 
 					<div class="grid-item">
-						<a href="http://placehold.it/800x600" data-background="http://placehold.it/800x600" data-rel="lightcase:gal" title="Image Caption"></a>
+						<a href="/img/ars/teal-vest.jpg" data-background="/img/ars/teal-vest-resize.jpg" data-rel="lightcase:gal" title="Custom Vest Project - The Ars Supernova"></a>
+					</div>
+					<div class="grid-item">
+						<a href="/img/ars/green-vest.jpg" data-background="/img/ars/green-vest-resize.jpg" data-rel="lightcase:gal" title="Custom Vest Project - The Ars Supernova"></a>
+					</div>
+					<div class="grid-item">
+						<a href="/img/ars/red-vest.jpg" data-background="/img/ars/red-vest-resize.jpg" data-rel="lightcase:gal" title="Custom Vest Project - The Ars Supernova"></a>
+					</div>
+					<div class="grid-item">
+						<a href="/img/ars/lady-vest.jpg" data-background="/img/ars/lady-vest-resize.jpg" data-rel="lightcase:gal" title="Custom Vest Project - The Ars Supernova"></a>
 					</div>
 					<div class="grid-item">
 						<a href="http://placehold.it/800x600" data-background="http://placehold.it/800x600" data-rel="lightcase:gal" title="Image Caption"></a>
@@ -42,51 +51,10 @@
 					<div class="grid-item">
 						<a href="http://placehold.it/800x600" data-background="http://placehold.it/800x600" data-rel="lightcase:gal" title="Image Caption"></a>
 					</div>
-					<div class="grid-item">
-						<a href="http://placehold.it/800x600" data-background="http://placehold.it/800x600" data-rel="lightcase:gal" title="Image Caption"></a>
-					</div>
-					<div class="grid-item">
-						<a href="http://placehold.it/800x600" data-background="http://placehold.it/800x600" data-rel="lightcase:gal" title="Image Caption"></a>
-					</div>
-					<div class="grid-item">
-						<a href="http://placehold.it/800x600" data-background="http://placehold.it/800x600" data-rel="lightcase:gal" title="Image Caption"></a>
-					</div>
-					<div class="grid-item">
-						<a href="http://placehold.it/800x600" data-background="http://placehold.it/800x600" data-rel="lightcase:gal" title="Image Caption"></a>
-					</div>
-					<div class="grid-item">
-						<a href="http://placehold.it/800x600" data-background="http://placehold.it/800x600" data-rel="lightcase:gal" title="Image Caption"></a>
-					</div>
-					<div class="grid-item">
-						<a href="http://placehold.it/800x600" data-background="http://placehold.it/800x600" data-rel="lightcase:gal" title="Image Caption"></a>
-					</div>
-
 				</div>
 			</div>		
 			<!-- /GALLERY -->
 		
-			<!-- FOOTER -->
-			<footer id="footer">
-				
-				<!-- FOOTER LINKS -->
-				<div class="footer-links">
-					&copy; 2016. By AchtungThemes. |
-					<a href="#">Facebook</a> |
-					<a href="#">Instagram</a> | 
-					<a href="#">500px</a>
-				</div>
-
-			</footer>
-			<!-- /FOOTER -->
-
-		</div>	
-		<!-- /MAIN-WRAPPER -->
-		
-		<!-- js -->
-		<script src="js/lib/jquery.min.js"></script>
-		<script src="js/lib/scripts.js"></script>
-		<!-- main js -->
-		<script src="js/main.js"></script>
-
+			<?php require_once($_SERVER['DOCUMENT_ROOT'].'/inc/footer.php'); ?>
 	</body>
 </html>

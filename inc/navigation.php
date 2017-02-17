@@ -15,7 +15,7 @@
 			<a href="ars-gallery.php">studio</a>
 			<ul>
 				<li><a href="ars-gallery.php">Ars Supernova</a></li>
-				<li><a href="portfolio-3-cols.html">3 columns</a></li>
+				<li><a href="sk-gallery.php">SK Images</a></li>
 			</ul>
 		</li>
 		<li>

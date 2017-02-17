@@ -55,6 +55,6 @@
 			</div>		
 			<!-- /GALLERY -->
 		
-			<?php require_once($_SERVER['DOCUMENT_ROOT'].'/inc/footer.php'); ?>
+			<?php require_once($_SERVER['DOCUMENT_ROOT'].'/inc/footer-gallery.php'); ?>
 	</body>
 </html>

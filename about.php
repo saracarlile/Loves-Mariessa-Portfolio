@@ -5,7 +5,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 	<head>    
        <?php 
-       $pageTitle = "About Me - Loves, Mariessa.";
+       $pageTitle = "About - Loves, Mariessa.";
        $headContent = "About the designer. Loves, Mariessa.  Custom fashion designs.";
 	   require_once($_SERVER['DOCUMENT_ROOT'].'/inc/header.php'); 
        ?>

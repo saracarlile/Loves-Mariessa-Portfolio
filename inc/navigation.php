@@ -12,11 +12,11 @@
 			<a href="home.php">home</a>
 		</li>
 		<li>
-			<a href="ars-gallery.php">studio</a>
+			<a href="raphael-gallery.php">studio</a>
 			<ul>
+				<li><a href="raphael-gallery.php">Raphael Umschied</a></li>
 				<li><a href="ars-gallery.php">Ars Supernova</a></li>
 				<li><a href="sk-gallery.php">SK Images</a></li>
-				<li><a href="raphael-gallery.php">Raphael Umschied</a></li>
 			</ul>
 		</li>
 		<li>

@@ -1,7 +1,7 @@
 # Loves, Mariessa
 
 
-** Portfolio Website **
+**Portfolio Website**
 
 
 This is a website I created to showcase the work of a fashion designer friend of mine.

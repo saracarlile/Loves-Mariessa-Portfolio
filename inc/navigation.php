@@ -20,11 +20,10 @@
 			</ul>
 		</li>
 		<li>
-			<a href="gallery-justified.html">live</a>
+			<a href="imaginations.php">live</a>
 			<ul>
-				<li><a href="gallery-justified.html">justified</a></li>
-				<li><a href="gallery-justified-fullwidth.html">justified fullwidth</a></li>
-				<li><a href="gallery-albums.html">albums</a></li>
+				<li><a href="imaginations.php">SXSW Imaginations</a></li>
+				<li><a href="visions.php">SXSW Visions</a></li>
 			</ul>
 		</li>
 		<li>

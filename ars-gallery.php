@@ -37,19 +37,19 @@
 						<a href="/img/ars/lady-vest.jpg" data-background="/img/ars/lady-vest-resize.jpg" data-rel="lightcase:gal" title="Custom Vest Project - The Ars Supernova"></a>
 					</div>
 					<div class="grid-item">
-						<a href="http://placehold.it/800x600" data-background="http://placehold.it/800x600" data-rel="lightcase:gal" title="Image Caption"></a>
+						<a href="/img/ars/ross-vest.jpg" data-background="/img/ars/ross-resize.jpg" data-rel="lightcase:gal" title="Custom Vest Project - The Ars Supernova"></a>
 					</div>
 					<div class="grid-item">
-						<a href="http://placehold.it/800x600" data-background="http://placehold.it/800x600" data-rel="lightcase:gal" title="Image Caption"></a>
+						<a href="/img/ars/group.jpg" data-background="/img/ars/group-resize.jpg" data-rel="lightcase:gal" title="Custom Vest Project - The Ars Supernova"></a>
 					</div>
 					<div class="grid-item">
-						<a href="http://placehold.it/800x600" data-background="http://placehold.it/800x600" data-rel="lightcase:gal" title="Image Caption"></a>
+						<a href="/img/ars/dark-blue.jpg" data-background="/img/ars/dark-blue-resize.jpg" data-rel="lightcase:gal" title="Custom Vest Project - The Ars Supernova"></a>
 					</div>
 					<div class="grid-item">
-						<a href="http://placehold.it/800x600" data-background="http://placehold.it/800x600" data-rel="lightcase:gal" title="Image Caption"></a>
+						<a href="/img/ars/sketch.jpg" data-background="/img/ars/sketch-resize.jpg" data-rel="lightcase:gal" title="Custom Vest Project Sketch - The Ars Supernova"></a>
 					</div>
 					<div class="grid-item">
-						<a href="http://placehold.it/800x600" data-background="http://placehold.it/800x600" data-rel="lightcase:gal" title="Image Caption"></a>
+						<a href="/img/ars/group-two.jpg" data-background="/img/ars/group-two-resize.jpg" data-rel="lightcase:gal" title="Custom Vest Project - The Ars Supernova"></a>
 					</div>
 				</div>
 			</div>		

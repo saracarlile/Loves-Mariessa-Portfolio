@@ -9,12 +9,12 @@
 <nav>
 	<ul class="main-menu">
 		<li>
-			<a href="index-horizontal-centered.php">home</a>
+			<a href="home.php">home</a>
 		</li>
 		<li>
-			<a href="gallery-grid.php">studio</a>
+			<a href="ars-gallery.php">studio</a>
 			<ul>
-				<li><a href="gallery-grid.php">Ars Supernova</a></li>
+				<li><a href="ars-gallery.php">Ars Supernova</a></li>
 				<li><a href="portfolio-3-cols.html">3 columns</a></li>
 			</ul>
 		</li>
@@ -27,13 +27,13 @@
 			</ul>
 		</li>
 		<li>
-			<a href="about-me.php">about</a>
+			<a href="about.php">about</a>
 		</li>
 		<li>
-			<a href="index-video.php">video</a>
+			<a href="video.php">video</a>
 		</li>
 		<li>
-			<a href="contact-me.php">contact</a>
+			<a href="contact.php">contact</a>
 		</li>
 	</ul>
 </nav>

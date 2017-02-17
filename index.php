@@ -25,7 +25,7 @@
 		       <div class="fullwidth fullscreen-height" data-background="/img/studio/background-img.jpg">
 				
 				<!-- Homepage Link (on landing page) -->
-				<a href="index-horizontal-centered.php" class="entrance">
+				<a href="home.php" class="entrance">
 					<h3 class="title">Loves, Mariessa</h3>
 					<h4 class="title">Custom Fashion Designs</h3>
 				</a>

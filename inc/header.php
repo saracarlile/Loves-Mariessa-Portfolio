@@ -5,7 +5,7 @@
     <title><?php echo $pageTitle; ?> </title>
     <meta name="description" content="<?php echo $headContent; ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta property="og:image" content="/img/LM.jpg">
+    <meta property="og:image" content="/img/sxsw-add-eight-fb.jpg">
     <link rel="shortcut icon" href="/img/favicon.png"> 
     <!-- plugins' css -->
     <link href="/css/plugins.css" rel="stylesheet" type="text/css">

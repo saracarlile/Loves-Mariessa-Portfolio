@@ -5,10 +5,12 @@
     <title><?php echo $pageTitle; ?> </title>
     <meta name="description" content="<?php echo $headContent; ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta property="og:image" content="/img/loves-mariessa-red-fb-img.png">
     <meta property="og:title" content="Loves, Mariessa - Custom Fashion Designs" >
     <meta property="og:site_name" content="Loves, Mariessa - Custom Fashion Designs">
+    <meta property="og:url" content="https://mighty-beyond-36521.herokuapp.com/" >
     <meta property="og:description" content="Fashion portfolio photos. Custom fashion designs. Loves, Mariessa" >
+    <meta property="og:type" content="website" >
+    <meta property="og:image" content="/img/loves-mariessa-red-fb-img.png">
     <link rel="shortcut icon" href="/img/favicon.png"> 
     <!-- plugins' css -->
     <link href="/css/plugins.css" rel="stylesheet" type="text/css">

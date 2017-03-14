@@ -7,11 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:title" content="Loves, Mariessa - Custom Fashion Designs" >
     <meta property="og:site_name" content="Loves, Mariessa - Custom Fashion Designs">
-    <meta property="og:url" content="http://http://www.lovesmariessa.com/" >
+    <meta property="og:url" content="http://www.lovesmariessa.com/" >
     <meta property="og:description" content="Fashion portfolio photos. Custom fashion designs. Loves, Mariessa" >
     <meta property="og:type" content="website" >
-    <meta property="og:image" content="http://http://www.lovesmariessa.com/img/loves-mariessa-red-fb-img.png">
-    <meta itemprop="image" content="http://http://www.lovesmariessa.com/img/loves-mariessa-red-fb-img.png">
+    <meta property="og:image" content="http://www.lovesmariessa.com/img/loves-mariessa-red-fb-img.png">
+    <meta itemprop="image" content="http://www.lovesmariessa.com/img/loves-mariessa-red-fb-img.png">
     <link rel="shortcut icon" href="/img/favicon.png"> 
     <!-- plugins' css -->
     <link href="/css/plugins.css" rel="stylesheet" type="text/css">

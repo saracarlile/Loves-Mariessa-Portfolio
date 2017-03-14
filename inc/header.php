@@ -10,6 +10,7 @@
     <meta property="og:url" content="http://www.lovesmariessa.com/" >
     <meta property="og:description" content="Fashion portfolio photos. Custom fashion designs. Loves, Mariessa" >
     <meta property="og:type" content="website" >
+    <meta property="fb:app_id" content="609206152606478" />
     <meta property="og:image" content="http://www.lovesmariessa.com/img/loves-mariessa-red-fb-img.png">
     <meta itemprop="image" content="http://www.lovesmariessa.com/img/loves-mariessa-red-fb-img.png">
     <link rel="shortcut icon" href="/img/favicon.png"> 

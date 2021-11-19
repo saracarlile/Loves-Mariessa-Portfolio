@@ -25,7 +25,7 @@
 				
 				<!-- IMAGE BACKGROUND -->
 				<!--<div class="col-md-6 col-sm-5 fullscreen-height fixed hidden-xs" data-background="http://placehold.it/1200x900"></div>-->
-					<div class="col-md-6 col-sm-5 fullscreen-height fixed hidden-xs" data-background="/img/closeupmariessa.jpg"></div>
+					<div class="col-md-6 col-sm-5 fullscreen-height fixed hidden-xs" data-background="/img/about-img-new_mariessa.jpg"></div>
 
 				<!-- DETAILS -->
 				<div class="col-md-6 col-sm-7 col-md-offset-6 col-sm-offset-5 fullscreen-height">
